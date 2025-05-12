@@ -43,16 +43,16 @@ Here are some ideas to get you started:
     <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=VoHunMain&theme=react&hide_border=false" alt="GitHub Streak" />
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niketiiitd&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoHunMain&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Niketiiitd&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=VoHunMain&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 
 
 
 <!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niketiiitd" alt="GitHub Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoHunMain" alt="GitHub Top Languages" />
 </p> -->
 
