@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/vaibhav-gupta-b0304a226/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Niket agarwal" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/niketagagwfh/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="niket agarwal" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/2004vaibhavg/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="niket agarwal" height="30" width="40" /></a>
-<a href="https://www.instagram.com/niket_agarwal_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Niket agarwal" height="30" width="40" /></a>
+<a href="https://www.instagram.com/vibzz.g/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Niket agarwal" height="30" width="40" /></a>
 </p>
 
 
